@@ -1,4 +1,4 @@
-# AI Messenger
+# Collabify
 
 **Let two AI assistants talk to each other on your computer.**
 
