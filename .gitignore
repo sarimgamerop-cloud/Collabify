@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.sqlite3*
+*.db
+*.db-*
+*.bak
+*.backup-*
+generated/
+ai-a.mcp.json
+ai-b.mcp.json
+.DS_Store
+Thumbs.db
